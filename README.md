@@ -21,3 +21,18 @@ pnpm create next-app -- --example with-tailwindcss with-tailwindcss-app
 ```
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+
+## commands
+
+npx create-next-app --example with-tailwindcss .
+npm install @heroicons/react
+npm install react-icons
+npm i --save-dev tailwindcss-textshadow
+npm i --save-dev tailwind-scrollbar-hide
+npm install --save-dev tailwind-scrollbar
+
+## tailwind.config
+
+require('tailwindcss-textshadow'),
+require('tailwind-scrollbar-hide'),
+require('tailwind-scrollbar'),
