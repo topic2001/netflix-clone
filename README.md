@@ -30,6 +30,14 @@ npm install react-icons
 npm i --save-dev tailwindcss-textshadow
 npm i --save-dev tailwind-scrollbar-hide
 npm install --save-dev tailwind-scrollbar
+npm install firebase
+npm install react-hook-form
+npm install recoil
+npm install @mui/material @emotion/react @emotion/styled
+npm install react-player
+npm i @stripe/firestore-stripe-payments
+npm install --save next-transpile-modules
+npm install react-hot-toast
 
 ## tailwind.config
 
